@@ -1,0 +1,17 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+    margin-right: 5px;
+}
+.product-name{
+    color: rgb(15, 6, 134);
+    font-weight: 400;
+}
+.main-btn{
+    background-color: goldenrod;
+    height: 30px;
+    width: 200px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
